@@ -18,7 +18,7 @@ for fila in matriz_ordenacion:
     print(fila)
 
 # Seleccionar la fila a ordenar
-fila_a_ordenar = 2
+fila_a_ordenar = 0
 bubble_sort(matriz_ordenacion[fila_a_ordenar])
 
 # Presentar la matriz luego de la ordenación
