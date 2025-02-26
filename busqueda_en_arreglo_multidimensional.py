@@ -7,9 +7,9 @@ def busqueda (matriz_busqueda, valor):
 
 # Establecer la matriz de búsqueda 3x3
 matriz_busqueda = [
-    [2, 4, 6],
-    [8, 10, 12],
-    [14, 16, 18]
+    [5, 10, 15],
+    [20, 25, 30],
+    [35, 40, 45]
 ]
 
 # valor que se buscará en la matriz
